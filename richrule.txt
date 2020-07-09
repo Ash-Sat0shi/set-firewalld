@@ -1,0 +1,3 @@
+rule family="ipv4" source address="153.149.237.35" port port="5060" protocol="udp" accept
+rule family="ipv4" source address="59.138.132.196" port port="5060" protocol="udp" accept
+rule family="ipv4" source address="216.58.196.238" port port="5060" protocol="udp" accept
